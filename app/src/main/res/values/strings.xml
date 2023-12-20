@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Escala de PH</string>
+    <string name="txt_titulo_app">Escala de PH</string>
+    <string name="txt_escolha">Escolha um numero de 0 a 14</string>
+    <string name="txt_numero">Número</string>
+    <string name="txt_btconfirmar">Confirmar</string>
+</resources>
